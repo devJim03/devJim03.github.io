@@ -4,7 +4,7 @@
 - This is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io for ECE 444 purposes
 
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](./assets/img/screenshot.png)
 
 
 # Personal Portfolio ⚡️
