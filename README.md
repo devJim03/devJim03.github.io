@@ -13,3 +13,11 @@
 ![Screenshot](./assets/img/ss3.png)
 ![Screenshot](./assets/img/ss4.png)
 ![Screenshot](./assets/img/ss5.png)
+
+## Activity 3
+![Screenshot](./assets/img/ss6.png)
+![Screenshot](./assets/img/ss7.png)
+
+## Activity 4
+![Screenshot](./assets/img/ss8.png)
+![Screenshot](./assets/img/ss9.png)
