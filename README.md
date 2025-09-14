@@ -3,6 +3,10 @@
 - Name: Jim Liu
 - This is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io for ECE 444 purposes
 
+
+![Screenshot](./assets/screenshot.png)
+
+
 # Personal Portfolio ⚡️
 
 > A clean, beautiful, responsive portfolio template for Software Developers!
